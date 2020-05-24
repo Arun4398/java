@@ -11,7 +11,7 @@ class TypeCasteingMain2
 }
    public static void main(String[] args)
    {
-   	  String str="ABC";
+   	  String str="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
    	  test(str);
    }
